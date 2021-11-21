@@ -1,5 +1,3 @@
-# Getting Started
-
 ### Tecnologias adotadas
 O desafio foi implementado utilizando as seguintes tecnologias:
 
