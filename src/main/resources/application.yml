@@ -1,0 +1,13 @@
+integration:
+  baseA:
+    host: https://url.hipotetica.do.servico.A
+    get:
+      pessoa: /pessoa/{cpf}
+  baseB:
+    host: https://url.hipotetica.do.servico.B
+    get:
+      score: /score/{cpf}
+  baseC:
+    host: https://url.hipotetica.do.servico.C
+    get:
+      evento: /evento/{cpf}
